@@ -1,3 +1,7 @@
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/efa75ec7-6aa2-4e98-87a5-7a1d6252bb88" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aee869a0-9703-4116-b5a8-150d86e7b924" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/543c0752-c25b-4b2a-92fb-7397d76473c3" />
+
 # Personal Task Manager
 
 ## Project Information
